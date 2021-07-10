@@ -17,6 +17,7 @@
 @include-section{literacy/evolution.scrbl}
 @include-section{literacy/neuroscience.scrbl}
 @include-section{literacy/optics.scrbl}
+@include-section{literacy/gastronomy.scrbl}
 
 @texbook-appendix{Appendices}
 

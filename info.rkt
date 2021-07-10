@@ -1,7 +1,7 @@
 #lang info
 
 (define collection 'use-pkg-name)
-(define pkg-desc "STEM")
+(define pkg-desc "STEM Gallery")
 
 (define deps '("digimon"))
 (define build-deps '("digimon" "scribble-lib" "racket-doc"))
